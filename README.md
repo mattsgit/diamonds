@@ -1,0 +1,2 @@
+# diamonds
+mine diamonds
